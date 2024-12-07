@@ -39,7 +39,10 @@ El Paso Sector Border Deaths
 
 
 # **Output**
-The new csv file female_deaths.csv and the female_graph.jpg, plus an empty png of a failed code kept for transparency's sake.
+- az_female_deaths.csv: Modified data to only show the "ML Number" , "Reporting Date" and "Sex."
+- Line graphs showing the number of remains found by year in sector
+
+
 
 # **Running the analysis yourself**
 You can run the analysis yourself with the following installed on your computer:
